@@ -17,15 +17,16 @@ How do we find the most relevant documents and passages? To find the most releva
                   "python3 questions.py corpus"
 5. Now ask the bot any related questions on "Machine Learning, Artificial Intelligence, Neural Network, Probabiltity, NLP, Python".
 6. Examples:
-            "$ python3 questions.py corpus"
-            "Query: What are the types of supervised learning?"
-            "Types of supervised learning algorithms include Active learning , classification and regression."
+
+            $ python3 questions.py corpus
+            Query: What are the types of supervised learning?
+            Types of supervised learning algorithms include Active learning , classification and regression.
             
-            "$ python3 questions.py corpus"
-            "Query: When was Python 3.0 released?"
-            "Python 3.0 was released on 3 December 2008."
+            $ python3 questions.py corpus
+            Query: When was Python 3.0 released?
+            Python 3.0 was released on 3 December 2008.
             
-            "$ python3 questions.py corpus"
-            "Query: How do neurons connect in a neural network?"
-            "Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers."
+            $ python3 questions.py corpus
+            Query: How do neurons connect in a neural network?
+            Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.
             
